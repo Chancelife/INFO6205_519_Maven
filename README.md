@@ -59,7 +59,7 @@ doLog(Generic generic, String code)
 - We use generation number as file name and create .txt files in /history/ folder. Because generation is huge with bad luck, we decide to run doLog() method when individuals in the current generation get a higher score than previous.
 
 ## 7. Unit Tests
-- ![UnitTest](FinalProject/UnitTest.png)
+- ![UnitTest](INFO6205_519/UnitTest.png)
 
 ## 8.	Parallel Computation Mechanism
 - We are using 2 threads —— run 2 colonies at the same time. The population of each colony is 100. 
@@ -69,5 +69,5 @@ doLog(Generic generic, String code)
 - Finally they made it. They passed the maze and reached a bright new world. It is how life goes. As long as we hold on to it, finally we get our rewards. By the way, never make a same mistake happen twice(as our algorithm goes). 
 
 ## Class Methods
-- ![MagicTower](FinalProject/MTClass.png)
-- ![Generic](FinalProject/GenericClass.png)
+- ![MagicTower](INFO6205_519/MTClass.png)
+- ![Generic](INFO6205_519/GenericClass.png)
